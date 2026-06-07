@@ -24,6 +24,9 @@ proyecto-propiedades-bsas/
 │
 ├── data/                 → colocar el CSV aquí (ver sección Dataset)
 │
+├── powerbi/
+│   └── propiedades_powerbi.pbix  → dashboard Power BI
+│
 ├── sql/
 │   ├── schema.sql        → estructura de la base de datos
 │   └── consultas.sql     → consultas de análisis
